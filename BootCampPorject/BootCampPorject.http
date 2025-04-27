@@ -1,0 +1,6 @@
+@BootCampPorject_HostAddress = http://localhost:5198
+
+GET {{BootCampPorject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
